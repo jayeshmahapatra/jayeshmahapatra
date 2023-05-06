@@ -4,7 +4,7 @@
 
 I am a Machine Learning Engineer.
 
-- 🔭 I’m currently working on Face Recognition, OCR and Image Segmentation.
+- 🔭 I’m currently working on ML for eKYC and Identity verification.
 - 🌱 I’m currently learning Rust, ML on Edge.
 - 💬 Ask me about Books, History.
 - 📫 How to reach me: jayeshmahapatra@gmail.com
