@@ -2,7 +2,7 @@
 
 ---
 
-I am a Machine Learning Engineer.
+I am a Machine Learning Engineer currently based in Stockholm.
 
 - 🔭 I’m currently working on ML for eKYC and Identity verification.
 - 🌱 I’m currently learning Rust, ML on Edge.
