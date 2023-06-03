@@ -5,7 +5,8 @@
 I am a Machine Learning Engineer currently based in Stockholm.
 
 - 🔭 I’m currently working on ML for eKYC and Identity verification.
-- 🌱 I’m currently learning Rust, ML on Edge.
+- 🌱 I’m currently learning ML on Edge.
+- 📙 My techincal blog: https://jayeshmahapatra.github.io/
 - 💬 Ask me about Books, History.
 - 📫 How to reach me: jayeshmahapatra@gmail.com
 
