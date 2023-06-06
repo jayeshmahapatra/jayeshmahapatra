@@ -9,6 +9,7 @@ I am a Machine Learning Engineer currently based in Stockholm.
 - 📙 My techincal blog: https://jayeshmahapatra.github.io/
 - 💬 Ask me about Books, History.
 - 📫 How to reach me: jayeshmahapatra@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jayeshmahapatra/
 
 ## &#x1f4c8; My GitHub Stats
 
