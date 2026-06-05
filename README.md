@@ -2,12 +2,10 @@
 
 ---
 
-I am a Machine Learning Engineer currently based in Stockholm.
+I am a Machine Learning Engineer currently based in Aarhus, Denmark.
 
-- 🔭 I’m currently working on ML for AdTech.
-- 🌱 I’m currently learning ML on Edge.
+- 🔭 I’m currently working on ML for Retail.
 - 📙 My techincal blog: https://jayeshmahapatra.github.io/
-- 💬 Ask me about Books, History.
 - 📫 How to reach me: jayeshmahapatra@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/jayeshmahapatra/
 
